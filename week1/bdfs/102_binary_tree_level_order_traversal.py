@@ -18,5 +18,3 @@ class Solution:
             queue += self.levelOrder(root.right)
         
         return queue
-        
-
